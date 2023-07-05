@@ -12,7 +12,7 @@ app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 mongoose.connect(
-  "mongodb+srv://<UserName>:<Password>cluster0.83b3qvq.mongodb.net/todoListDB"
+  "mongodb+srv://Admin:S%40king10@cluster0.83b3qvq.mongodb.net/todoListDB"
 );
 //Schemas
 
