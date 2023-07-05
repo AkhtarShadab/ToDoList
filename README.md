@@ -9,7 +9,7 @@ To install and run this app locally, follow these steps:
 1. Clone the repository from GitHub:
 
    ```sh
-   git clone https://github.com/your-username/ToDoList.git
+   git clone https://github.com/AkhtarShadab/ToDoList.git
    ```
 
 2. Change into the project directory:
@@ -59,7 +59,7 @@ If you'd like to contribute to this project, you can follow these steps:
 2. Clone your forked repository:
 
    ```sh
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/AkhtarShadab/ToDoList.git
    ```
 
 3. Create a new branch for your feature or bug fix:
